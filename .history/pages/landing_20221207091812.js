@@ -42,9 +42,9 @@ function Landing() {
                 className="text-5xl text-white md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4"
                 data-aos="zoom-y-out"
               >
-                nvivo.{" "}
+                It is YouTube, but{" "}
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-                  Streaming. Uncensored.
+                  Decentralized
                 </span>
               </h1>
               <div className="max-w-3xl mx-auto">
@@ -53,7 +53,9 @@ function Landing() {
                   data-aos="zoom-y-out"
                   data-aos-delay="150"
                 >
-                  Create, share and watch videos, without worrying about your privacy.
+                  A YouTube Clone built on top of Polygon network, allow users
+                  to create, share and watch videos, without worrying about
+                  their privacy.
                 </p>
                 <b>
                   <p

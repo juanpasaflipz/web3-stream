@@ -53,7 +53,9 @@ function Landing() {
                   data-aos="zoom-y-out"
                   data-aos-delay="150"
                 >
-                  Create, share and watch videos, without worrying about your privacy.
+                  A YouTube Clone built on top of Polygon network, allow users
+                  to create, share and watch videos, without worrying about
+                  their privacy.
                 </p>
                 <b>
                   <p

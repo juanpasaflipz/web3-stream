@@ -53,7 +53,7 @@ function Landing() {
                   data-aos="zoom-y-out"
                   data-aos-delay="150"
                 >
-                  Create, share and watch videos, without worrying about your privacy.
+                  create, share and watch videos, without worrying about.
                 </p>
                 <b>
                   <p
